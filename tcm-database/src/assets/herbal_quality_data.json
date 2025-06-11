@@ -1,0 +1,2492 @@
+{
+  "五加皮": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC0601",
+        "herb_type": "五加皮",
+        "notes": [
+          "夾有木部",
+          "無皮孔",
+          "斷面黃",
+          "味不苦不辣"
+        ]
+      },
+      {
+        "sample_id": "TC0602",
+        "herb_type": "五加皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0603",
+        "herb_type": "五加皮",
+        "notes": [
+          "夾有木部，有毛",
+          "無皮孔",
+          "斷面黃",
+          "味不苦不辣"
+        ]
+      },
+      {
+        "sample_id": "TC0604",
+        "herb_type": "五加皮",
+        "notes": [
+          "有木部，皮部不符合"
+        ]
+      },
+      {
+        "sample_id": "TC0605",
+        "herb_type": "五加皮",
+        "notes": [
+          "切碎"
+        ]
+      },
+      {
+        "sample_id": "TC0606",
+        "herb_type": "五加皮",
+        "notes": [
+          "切碎"
+        ]
+      },
+      {
+        "sample_id": "TC0607",
+        "herb_type": "五加皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0608",
+        "herb_type": "五加皮",
+        "notes": [
+          "有木部，皮部不符合"
+        ]
+      },
+      {
+        "sample_id": "TC0609",
+        "herb_type": "五加皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0610",
+        "herb_type": "五加皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0611",
+        "herb_type": "五加皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0612",
+        "herb_type": "五加皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0613",
+        "herb_type": "五加皮",
+        "notes": [
+          "內表面有灰黑色",
+          "斷面灰棕色"
+        ]
+      }
+    ]
+  },
+  "升麻": {
+    "total_samples": 12,
+    "samples": [
+      {
+        "sample_id": "TC1701",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1702",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1703",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1704",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1705",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1706",
+        "herb_type": "升麻",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1707",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1708",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1709",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻"
+        ]
+      },
+      {
+        "sample_id": "TC1710",
+        "herb_type": "升麻",
+        "notes": [
+          "非枝狀",
+          "無空洞",
+          "易折",
+          "偽品，廣升麻，摻不明"
+        ]
+      },
+      {
+        "sample_id": "TC1711",
+        "herb_type": "升麻",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1712",
+        "herb_type": "升麻",
+        "notes": []
+      }
+    ]
+  },
+  "地骨皮": {
+    "total_samples": 12,
+    "samples": [
+      {
+        "sample_id": "TC0701",
+        "herb_type": "地骨皮",
+        "notes": [
+          "太碎"
+        ]
+      },
+      {
+        "sample_id": "TC0702",
+        "herb_type": "地骨皮",
+        "notes": [
+          "無鱗片",
+          "偏棕",
+          "無味"
+        ]
+      },
+      {
+        "sample_id": "TC0703",
+        "herb_type": "地骨皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0704",
+        "herb_type": "地骨皮",
+        "notes": [
+          "偏棕",
+          "無甘味"
+        ]
+      },
+      {
+        "sample_id": "TC0705",
+        "herb_type": "地骨皮",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0706",
+        "herb_type": "地骨皮",
+        "notes": [
+          "太碎"
+        ]
+      },
+      {
+        "sample_id": "TC0707",
+        "herb_type": "地骨皮",
+        "notes": [
+          "太碎"
+        ]
+      },
+      {
+        "sample_id": "TC0708",
+        "herb_type": "地骨皮",
+        "notes": [
+          "無鱗片",
+          "偏棕",
+          "質軟",
+          "無甘味"
+        ]
+      },
+      {
+        "sample_id": "TC0709",
+        "herb_type": "地骨皮",
+        "notes": [
+          "非地骨皮，不明藥材",
+          "呈筒狀或槽狀，但長度、寬度、厚度不符合",
+          "顏色較紅",
+          "表面無易剝落鱗片",
+          "內表面紅棕色、光滑",
+          "斷面無分層、棕色"
+        ]
+      },
+      {
+        "sample_id": "TC0710",
+        "herb_type": "地骨皮",
+        "notes": [
+          "太碎"
+        ]
+      },
+      {
+        "sample_id": "TC0711",
+        "herb_type": "地骨皮",
+        "notes": [
+          "中間夾有板條"
+        ]
+      },
+      {
+        "sample_id": "TC0712",
+        "herb_type": "地骨皮",
+        "notes": []
+      }
+    ]
+  },
+  "大青葉": {
+    "total_samples": 1,
+    "samples": [
+      {
+        "herb_type": "大青葉"
+      }
+    ]
+  },
+  "天冬": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC1501",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1502",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1503",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1504",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1505",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1506",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1507",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1508",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1509",
+        "herb_type": "天冬",
+        "notes": [
+          "色略深"
+        ]
+      },
+      {
+        "sample_id": "TC1510",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1511",
+        "herb_type": "天冬",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1512",
+        "herb_type": "天冬",
+        "notes": [
+          "壓成了圓片狀"
+        ]
+      },
+      {
+        "sample_id": "TC1513",
+        "herb_type": "天冬",
+        "notes": []
+      }
+    ]
+  },
+  "川貝母": {
+    "total_samples": 15,
+    "samples": [
+      {
+        "sample_id": "TC0101",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "顏色偏黃",
+          "夾有底部無凹陷者(觀音坐蓮)"
+        ]
+      },
+      {
+        "sample_id": "TC0102",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "夾有底部無凹陷者(觀音坐蓮)"
+        ]
+      },
+      {
+        "sample_id": "TC0103",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "表面顏色太白",
+          "氣微酸",
+          "曾漂白",
+          "夾有底部無凹陷者(觀音坐蓮)",
+          "曾漂白"
+        ]
+      },
+      {
+        "sample_id": "TC0104",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "夾有底部無凹陷者(觀音坐蓮)"
+        ]
+      },
+      {
+        "sample_id": "TC0105",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "表面顏色太白",
+          "夾有底部無凹陷者(觀音坐蓮)",
+          "夾有不符合特徵"
+        ]
+      },
+      {
+        "sample_id": "TC0106",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "表面顏色太白",
+          "夾有底部無凹陷者(觀音坐蓮)",
+          "夾有不符合特徵"
+        ]
+      },
+      {
+        "sample_id": "TC0107",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "部份小鱗葉掉落形成懷中抱月",
+          "伴有黑點",
+          "夾有底部無凹陷者(觀音坐蓮)"
+        ]
+      },
+      {
+        "sample_id": "TC0108",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "夾有底部無凹陷者(觀音坐蓮)"
+        ]
+      },
+      {
+        "sample_id": "TC0109",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "破碎居多",
+          "大多大小瓣分離，完整的有符合特徵",
+          "摻有平貝母"
+        ]
+      },
+      {
+        "sample_id": "TC0110",
+        "herb_type": "川貝母 (松貝)",
+        "notes": [
+          "扁球形",
+          "平貝母"
+        ]
+      },
+      {
+        "sample_id": "TC0111",
+        "herb_type": "川貝母 (松貝)",
+        "notes": [
+          "扁球形",
+          "偏黃",
+          "平貝母"
+        ]
+      },
+      {
+        "sample_id": "TC0112",
+        "herb_type": "川貝母 (松貝)",
+        "notes": [
+          "部份觀音坐蓮",
+          "摻有平貝母"
+        ]
+      },
+      {
+        "sample_id": "TC0113",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "部份小瓣短+未顯「觀音坐蓮」(青貝)",
+          "摻有平貝母"
+        ]
+      },
+      {
+        "sample_id": "TC0114",
+        "herb_type": "川貝母 (青貝)",
+        "notes": [
+          "破碎",
+          "大多大小瓣分離",
+          "部份小瓣短+未顯「觀音坐蓮」(青貝)",
+          "摻有平貝母"
+        ]
+      },
+      {
+        "sample_id": "TC0115",
+        "herb_type": "川貝母 (松貝)",
+        "notes": [
+          "大多扁球形",
+          "偏黃",
+          "未能觀音坐蓮",
+          "小瓣短",
+          "平貝母"
+        ]
+      }
+    ]
+  },
+  "柏子仁": {
+    "total_samples": 11,
+    "samples": [
+      {
+        "sample_id": "TC2002",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      },
+      {
+        "sample_id": "TC2003",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      },
+      {
+        "sample_id": "TC2004",
+        "herb_type": "柏子仁",
+        "notes": []
+      },
+      {
+        "sample_id": "TC2005",
+        "herb_type": "柏子仁",
+        "notes": []
+      },
+      {
+        "sample_id": "TC2006",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      },
+      {
+        "sample_id": "TC2007",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      },
+      {
+        "sample_id": "TC2008",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      },
+      {
+        "sample_id": "TC2009",
+        "herb_type": "柏子仁",
+        "notes": [
+          "偽品，未知"
+        ]
+      },
+      {
+        "sample_id": "TC2010",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      },
+      {
+        "sample_id": "TC2011",
+        "herb_type": "柏子仁",
+        "notes": []
+      },
+      {
+        "sample_id": "TC2012",
+        "herb_type": "柏子仁",
+        "notes": [
+          "真摻假(黃金亞麻子)"
+        ]
+      }
+    ]
+  },
+  "柴胡": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC0401",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0402",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0403",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)",
+          "少數不夠長"
+        ]
+      },
+      {
+        "sample_id": "TC0404",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)",
+          "夾有葉基莖枝"
+        ]
+      },
+      {
+        "sample_id": "TC0405",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0406",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0407",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0408",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0409",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)",
+          "分支不可見"
+        ]
+      },
+      {
+        "sample_id": "TC0410",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)",
+          "根頭膨大，但分支不可見"
+        ]
+      },
+      {
+        "sample_id": "TC0411",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0412",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)"
+        ]
+      },
+      {
+        "sample_id": "TC0413",
+        "herb_type": "",
+        "notes": [
+          "柴胡 (北柴胡)",
+          "有蟲"
+        ]
+      }
+    ]
+  },
+  "決明子": {
+    "total_samples": 12,
+    "samples": [
+      {
+        "sample_id": "TC1401",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1402",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1403",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1404",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1405",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)"
+        ]
+      },
+      {
+        "sample_id": "TC1406",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1407",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1408",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)",
+          "混雜異物"
+        ]
+      },
+      {
+        "sample_id": "TC1409",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)"
+        ]
+      },
+      {
+        "sample_id": "TC1410",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)"
+        ]
+      },
+      {
+        "sample_id": "TC1411",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)"
+        ]
+      },
+      {
+        "sample_id": "TC1412",
+        "herb_type": "",
+        "notes": [
+          "決明子 (決明)"
+        ]
+      }
+    ]
+  },
+  "沉香": {
+    "total_samples": 22,
+    "samples": [
+      {
+        "sample_id": "TC2201",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2202",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2203",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2204",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2205",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2206",
+        "herb_type": "沉香",
+        "notes": [
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2207",
+        "herb_type": "沉香",
+        "notes": [
+          "無樹脂",
+          "無香",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2208",
+        "herb_type": "沉香",
+        "notes": [
+          "無黃白色木部",
+          "太輕、易碎",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2209",
+        "herb_type": "沉香",
+        "notes": [
+          "碎屑",
+          "無黃白色木部",
+          "太輕、易碎",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2210",
+        "herb_type": "沉香",
+        "notes": [
+          "無樹脂",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2211",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2212",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2213",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2214",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2215",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2216",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2217",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2218",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2219",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2220",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2221",
+        "herb_type": "沉香",
+        "notes": [
+          "太工整",
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC2222",
+        "herb_type": "沉香",
+        "notes": [
+          "無樹脂",
+          "太輕",
+          "味不對",
+          "偽品"
+        ]
+      }
+    ]
+  },
+  "淫羊藿": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC2101",
+        "herb_type": "",
+        "notes": [
+          "巫山淫羊藿",
+          "披針，有毛刺"
+        ]
+      },
+      {
+        "sample_id": "TC2102",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "太碎，看不到葉型"
+        ]
+      },
+      {
+        "sample_id": "TC2103",
+        "herb_type": "淫羊藿",
+        "notes": []
+      },
+      {
+        "sample_id": "TC2104",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "太碎，看不出形狀和複葉"
+        ]
+      },
+      {
+        "sample_id": "TC2105",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "太碎，葉型不對"
+        ]
+      },
+      {
+        "sample_id": "TC2106",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "太碎，葉形不對"
+        ]
+      },
+      {
+        "sample_id": "TC2107",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "太碎，葉型不對"
+        ]
+      },
+      {
+        "sample_id": "TC2108",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "部份有鋸齒，部份沒有",
+          "棕色",
+          "披針狀",
+          "可能混有箭葉淫羊藿"
+        ]
+      },
+      {
+        "sample_id": "TC2109",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "部份葉片可見尖端，亦有部份不可見",
+          "葉底光滑",
+          "可能混有刺葉淫羊藿"
+        ]
+      },
+      {
+        "sample_id": "TC2110",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "部份葉片的邊緣、刺狀、排列不同"
+        ]
+      },
+      {
+        "sample_id": "TC2111",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "部份邊緣無刺毛狀鋸齒",
+          "葉背無毛",
+          "部份呈披針形",
+          "葉片革質",
+          "可能混有箭葉淫羊藿"
+        ]
+      },
+      {
+        "sample_id": "TC2112",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "複葉不可考，但其餘類同",
+          "色偏棕，或與時間有關"
+        ]
+      },
+      {
+        "sample_id": "TC2113",
+        "herb_type": "淫羊藿",
+        "notes": [
+          "葉形不可辨，其餘類同"
+        ]
+      }
+    ]
+  },
+  "玉竹": {
+    "total_samples": 26,
+    "samples": [
+      {
+        "sample_id": "TC0201",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0202",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0203",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0204",
+        "herb_type": "玉竹",
+        "notes": [
+          "夾有質脆、有紅棕色條紋、嚼之不發黏碎片"
+        ]
+      },
+      {
+        "sample_id": "TC0205",
+        "herb_type": "玉竹",
+        "notes": [
+          "色偏深呈棕黃色",
+          "部份無半透明"
+        ]
+      },
+      {
+        "sample_id": "TC0206",
+        "herb_type": "玉竹",
+        "notes": [
+          "色略深"
+        ]
+      },
+      {
+        "sample_id": "TC0207",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0208",
+        "herb_type": "玉竹",
+        "notes": [
+          "表面鬚根痕、環節不明顯",
+          "角質樣，但難折斷",
+          "不確定真偽"
+        ]
+      },
+      {
+        "sample_id": "TC0209",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0210",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0211",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0212",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0213",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0214",
+        "herb_type": "玉竹",
+        "notes": [
+          "色略深",
+          "可能為劣品"
+        ]
+      },
+      {
+        "sample_id": "TC0215",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0216",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0217",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0218",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0219",
+        "herb_type": "玉竹",
+        "notes": [
+          "混雜甘草"
+        ]
+      },
+      {
+        "sample_id": "TC0220",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0221",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0222",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0223",
+        "herb_type": "玉竹",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0224",
+        "herb_type": "玉竹",
+        "notes": [
+          "肥厚",
+          "無外皮",
+          "柔軟",
+          "偽品：海玉竹"
+        ]
+      },
+      {
+        "sample_id": "TC0225",
+        "herb_type": "玉竹",
+        "notes": [
+          "肥厚",
+          "無外皮",
+          "柔軟",
+          "偽品：海玉竹"
+        ]
+      },
+      {
+        "sample_id": "TC0226",
+        "herb_type": "玉竹",
+        "notes": []
+      }
+    ]
+  },
+  "白芨": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC0801",
+        "herb_type": "白芨",
+        "notes": [
+          "太碎",
+          "氣酸臭"
+        ]
+      },
+      {
+        "sample_id": "TC0802",
+        "herb_type": "白芨",
+        "notes": [
+          "太碎",
+          "氣酸臭"
+        ]
+      },
+      {
+        "sample_id": "TC0803",
+        "herb_type": "白芨",
+        "notes": [
+          "切片",
+          "氣酸臭"
+        ]
+      },
+      {
+        "sample_id": "TC0804",
+        "herb_type": "白芨",
+        "notes": [
+          "切片"
+        ]
+      },
+      {
+        "sample_id": "TC0805",
+        "herb_type": "白芨",
+        "notes": [
+          "太碎",
+          "氣酸臭"
+        ]
+      },
+      {
+        "sample_id": "TC0806",
+        "herb_type": "白芨",
+        "notes": [
+          "太碎",
+          "氣酸臭"
+        ]
+      },
+      {
+        "sample_id": "TC0807",
+        "herb_type": "白芨",
+        "notes": [
+          "氣酸臭"
+        ]
+      },
+      {
+        "sample_id": "TC0808",
+        "herb_type": "白芨",
+        "notes": [
+          "切片"
+        ]
+      },
+      {
+        "sample_id": "TC0809",
+        "herb_type": "白芨",
+        "notes": [
+          "未見爪狀，多為碎片",
+          "未見根痕等",
+          "斷面纖維狀",
+          "硫酸味重",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC0810",
+        "herb_type": "白芨",
+        "notes": [
+          "可見2爪狀，多為碎片",
+          "斷面灰棕色，可能為品質問題"
+        ]
+      },
+      {
+        "sample_id": "TC0811",
+        "herb_type": "白芨",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0812",
+        "herb_type": "白芨",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0813",
+        "herb_type": "白芨",
+        "notes": [
+          "已切片，不可見分枝",
+          "根痕莖痕不明顯",
+          "不明，有機會混入其他藥材"
+        ]
+      }
+    ]
+  },
+  "白蘚皮": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC0501",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "皮木無分離",
+          "內表面無分離"
+        ]
+      },
+      {
+        "sample_id": "TC0502",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "皮木無分離",
+          "內表面無分離",
+          "氣弱"
+        ]
+      },
+      {
+        "sample_id": "TC0503",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "皮木無分離",
+          "內表面無分離",
+          "氣弱"
+        ]
+      },
+      {
+        "sample_id": "TC0504",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "皮木無分離",
+          "內表面無分離",
+          "氣弱"
+        ]
+      },
+      {
+        "sample_id": "TC0505",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "皮木無分離",
+          "內表面無分離",
+          "氣弱"
+        ]
+      },
+      {
+        "sample_id": "TC0506",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "切粒"
+        ]
+      },
+      {
+        "sample_id": "TC0507",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮"
+        ]
+      },
+      {
+        "sample_id": "TC0508",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "皮木無分離",
+          "內表面無分離",
+          "氣弱"
+        ]
+      },
+      {
+        "sample_id": "TC0509",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "不明，非白蘚皮"
+        ]
+      },
+      {
+        "sample_id": "TC0510",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮"
+        ]
+      },
+      {
+        "sample_id": "TC0511",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮"
+        ]
+      },
+      {
+        "sample_id": "TC0512",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮",
+          "某些具特徵二，大多不具",
+          "只有一兩條具特徵三",
+          "某些為正品，大多不明"
+        ]
+      },
+      {
+        "sample_id": "TC0513",
+        "herb_type": "",
+        "notes": [
+          "白鮮皮"
+        ]
+      }
+    ]
+  },
+  "白附片": {
+    "total_samples": 0,
+    "samples": []
+  },
+  "砂仁": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC0901",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚"
+        ]
+      },
+      {
+        "sample_id": "TC0902",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚"
+        ]
+      },
+      {
+        "sample_id": "TC0903",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚"
+        ]
+      },
+      {
+        "sample_id": "TC0904",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚"
+        ]
+      },
+      {
+        "sample_id": "TC0905",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚"
+        ]
+      },
+      {
+        "sample_id": "TC0906",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)"
+        ]
+      },
+      {
+        "sample_id": "TC0907",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚"
+        ]
+      },
+      {
+        "sample_id": "TC0908",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長圓形",
+          "混有長序砂仁",
+          "皮厚",
+          "香較弱"
+        ]
+      },
+      {
+        "sample_id": "TC0909",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "長橢圓，無三棱",
+          "隔膜棕色",
+          "無假種皮",
+          "姜的氣味",
+          "非砂仁，不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC0910",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)"
+        ]
+      },
+      {
+        "sample_id": "TC0911",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)"
+        ]
+      },
+      {
+        "sample_id": "TC0912",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)"
+        ]
+      },
+      {
+        "sample_id": "TC0913",
+        "herb_type": "",
+        "notes": [
+          "砂仁 (陽春砂、綠殼砂)",
+          "果皮偏硬",
+          "隔膜棕色",
+          "無明顯假種皮",
+          "姜味",
+          "非砂仁，不明藥材"
+        ]
+      }
+    ]
+  },
+  "肉蓯蓉": {
+    "total_samples": 12,
+    "samples": [
+      {
+        "sample_id": "TC1301",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1302",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1303",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1304",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1305",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1306",
+        "herb_type": "肉蓯蓉",
+        "notes": [
+          "環紋不明顯",
+          "混有偽品"
+        ]
+      },
+      {
+        "sample_id": "TC1307",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1308",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1310",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1311",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1314",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1315",
+        "herb_type": "肉蓯蓉",
+        "notes": []
+      }
+    ]
+  },
+  "葛根": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC1001",
+        "herb_type": "葛根",
+        "notes": [
+          "粉葛"
+        ]
+      },
+      {
+        "sample_id": "TC1002",
+        "herb_type": "葛根",
+        "notes": [
+          "粉葛"
+        ]
+      },
+      {
+        "sample_id": "TC1003",
+        "herb_type": "葛根",
+        "notes": [
+          "粉葛"
+        ]
+      },
+      {
+        "sample_id": "TC1004",
+        "herb_type": "葛根",
+        "notes": [
+          "粉葛"
+        ]
+      },
+      {
+        "sample_id": "TC1005",
+        "herb_type": "葛根",
+        "notes": [
+          "粉葛"
+        ]
+      },
+      {
+        "sample_id": "TC1006",
+        "herb_type": "葛根",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1007",
+        "herb_type": "葛根",
+        "notes": [
+          "粉葛"
+        ]
+      },
+      {
+        "sample_id": "TC1008",
+        "herb_type": "葛根",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1009",
+        "herb_type": "葛根",
+        "notes": [
+          "微酸",
+          "漂過"
+        ]
+      },
+      {
+        "sample_id": "TC1010",
+        "herb_type": "葛根",
+        "notes": [
+          "淺棕色",
+          "味酸",
+          "漂過"
+        ]
+      },
+      {
+        "sample_id": "TC1011",
+        "herb_type": "葛根",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1012",
+        "herb_type": "葛根",
+        "notes": [
+          "淺棕色",
+          "韌性少、纖維少",
+          "微酸",
+          "不知名藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1013",
+        "herb_type": "葛根",
+        "notes": []
+      }
+    ]
+  },
+  "蒼術": {
+    "total_samples": 0,
+    "samples": []
+  },
+  "製何首烏": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC1801",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1802",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1803",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1804",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1805",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1806",
+        "herb_type": "製何首烏",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1807",
+        "herb_type": "製何首烏",
+        "notes": [
+          "碎",
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1808",
+        "herb_type": "製何首烏",
+        "notes": [
+          "碎",
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1809",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1810",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1811",
+        "herb_type": "製何首烏",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1812",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      },
+      {
+        "sample_id": "TC1813",
+        "herb_type": "製何首烏",
+        "notes": [
+          "易斷",
+          "正品、但未完全炮製"
+        ]
+      }
+    ]
+  },
+  "西洋蔘": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC1601",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "嚴重生蟲"
+        ]
+      },
+      {
+        "sample_id": "TC1602",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1603",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1604",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "氣味不明顯",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1605",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1606",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "正品",
+          "有蟲",
+          "蛀空"
+        ]
+      },
+      {
+        "sample_id": "TC1607",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1608",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1609",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品",
+          "碎屑多"
+        ]
+      },
+      {
+        "sample_id": "TC1610",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1611",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "嚴重生蟲"
+        ]
+      },
+      {
+        "sample_id": "TC1612",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1613",
+        "herb_type": "",
+        "notes": [
+          "西洋參",
+          "切片",
+          "正品"
+        ]
+      }
+    ]
+  },
+  "酸棗仁": {
+    "total_samples": 15,
+    "samples": [
+      {
+        "sample_id": "TC0301",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "有蟲",
+          "碎屑多",
+          "滲有偽品"
+        ]
+      },
+      {
+        "sample_id": "TC0302",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "有皺紋",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC0303",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "有皺紋",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC0304",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "有皺紋",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC0305",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "有皺紋",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC0306",
+        "herb_type": "酸棗仁",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0307",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "有皺紋",
+          "偽品"
+        ]
+      },
+      {
+        "sample_id": "TC0308",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "呈棕紅色，非紫紅",
+          "種皮較硬",
+          "滇棗仁，混有少量酸棗仁"
+        ]
+      },
+      {
+        "sample_id": "TC0309",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "染色兵豆"
+        ]
+      },
+      {
+        "sample_id": "TC0310",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "滇棗仁"
+        ]
+      },
+      {
+        "sample_id": "TC0311",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "染色兵豆"
+        ]
+      },
+      {
+        "sample_id": "TC0312",
+        "herb_type": "酸棗仁",
+        "notes": []
+      },
+      {
+        "sample_id": "TC0313",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "滇棗仁"
+        ]
+      },
+      {
+        "sample_id": "TC0314",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "滇棗仁"
+        ]
+      },
+      {
+        "sample_id": "TC0315",
+        "herb_type": "酸棗仁",
+        "notes": [
+          "混鮮紅",
+          "酸棗仁中混有染色兵豆"
+        ]
+      }
+    ]
+  },
+  "金銀花": {
+    "total_samples": 12,
+    "samples": [
+      {
+        "sample_id": "TC1901",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1902",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1903",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1904",
+        "herb_type": "金銀花",
+        "notes": [
+          "毛難見",
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1905",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1906",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1907",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1908",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1909",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1910",
+        "herb_type": "金銀花",
+        "notes": [
+          "棕色",
+          "偶見花萼，棕色",
+          "正品，或貯久"
+        ]
+      },
+      {
+        "sample_id": "TC1911",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      },
+      {
+        "sample_id": "TC1912",
+        "herb_type": "金銀花",
+        "notes": [
+          "正品"
+        ]
+      }
+    ]
+  },
+  "金錢草": {
+    "total_samples": 1,
+    "samples": [
+      {
+        "herb_type": "金錢草"
+      }
+    ]
+  },
+  "鉤藤": {
+    "total_samples": 14,
+    "samples": [
+      {
+        "sample_id": "TC1101",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤者略多"
+        ]
+      },
+      {
+        "sample_id": "TC1102",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤者略多"
+        ]
+      },
+      {
+        "sample_id": "TC1103",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤者略多"
+        ]
+      },
+      {
+        "sample_id": "TC1104",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤者略多"
+        ]
+      },
+      {
+        "sample_id": "TC1105",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤者略多"
+        ]
+      },
+      {
+        "sample_id": "TC1106",
+        "herb_type": "鉤藤",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1107",
+        "herb_type": "鉤藤",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1108",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤者略多"
+        ]
+      },
+      {
+        "sample_id": "TC1109",
+        "herb_type": "鉤藤",
+        "notes": [
+          "色偏黃",
+          "無鉤",
+          "劣品"
+        ]
+      },
+      {
+        "sample_id": "TC1110",
+        "herb_type": "鉤藤",
+        "notes": [
+          "有鉤但不多"
+        ]
+      },
+      {
+        "sample_id": "TC1111",
+        "herb_type": "鉤藤",
+        "notes": [
+          "無鉤",
+          "品種為正，但部位錯"
+        ]
+      },
+      {
+        "sample_id": "TC1112",
+        "herb_type": "鉤藤",
+        "notes": []
+      },
+      {
+        "sample_id": "TC1113",
+        "herb_type": "鉤藤",
+        "notes": [
+          "鉤不多"
+        ]
+      },
+      {
+        "sample_id": "TC1114",
+        "herb_type": "鉤藤",
+        "notes": [
+          "鉤不多"
+        ]
+      }
+    ]
+  },
+  "骨碎補": {
+    "total_samples": 13,
+    "samples": [
+      {
+        "sample_id": "TC1201",
+        "herb_type": "骨碎補",
+        "notes": [
+          "禿",
+          "難折斷",
+          "維管束無排列",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1202",
+        "herb_type": "骨碎補",
+        "notes": [
+          "少禿"
+        ]
+      },
+      {
+        "sample_id": "TC1203",
+        "herb_type": "骨碎補",
+        "notes": [
+          "禿",
+          "較硬",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1204",
+        "herb_type": "骨碎補",
+        "notes": [
+          "部份為禿",
+          "某些排列不符合",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1205",
+        "herb_type": "骨碎補",
+        "notes": [
+          "部份為禿",
+          "某些排列不符合"
+        ]
+      },
+      {
+        "sample_id": "TC1206",
+        "herb_type": "骨碎補",
+        "notes": [
+          "折面黃色"
+        ]
+      },
+      {
+        "sample_id": "TC1207",
+        "herb_type": "骨碎補",
+        "notes": [
+          "禿",
+          "排列不對",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1208",
+        "herb_type": "骨碎補",
+        "notes": [
+          "折面黃色",
+          "有發霉"
+        ]
+      },
+      {
+        "sample_id": "TC1209",
+        "herb_type": "骨碎補",
+        "notes": [
+          "折面黃色",
+          "有蟲",
+          "霉變",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1210",
+        "herb_type": "骨碎補",
+        "notes": [
+          "特徵二：部份符合",
+          "部份斷面黃色",
+          "真品混有偽品"
+        ]
+      },
+      {
+        "sample_id": "TC1211",
+        "herb_type": "骨碎補",
+        "notes": [
+          "禿",
+          "難折斷",
+          "維管束無排列",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1212",
+        "herb_type": "骨碎補",
+        "notes": [
+          "表面較亮，毛不柔軟",
+          "折面黃色",
+          "不明藥材"
+        ]
+      },
+      {
+        "sample_id": "TC1213",
+        "herb_type": "骨碎補",
+        "notes": []
+      }
+    ]
+  },
+  "黑順片": {
+    "total_samples": 2,
+    "samples": [
+      {
+        "sample_id": "TC2301",
+        "herb_type": "",
+        "notes": [
+          "製附子 (黑順片)"
+        ]
+      },
+      {
+        "sample_id": "TC2302",
+        "herb_type": "",
+        "notes": [
+          "製附子 (黑順片)"
+        ]
+      }
+    ]
+  }
+}
